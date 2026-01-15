@@ -4,6 +4,12 @@ FileScope v1.0.0 is a modern Python desktop application designed for **fast, rec
 This repository contains the **full source code**, enabling full customization of search logic, UI styling, threading behavior, and progress animations for professional or personal workflows.
 
 ------------------------------------------------------------
+🌟 SCREENSHOT
+------------------------------------------------------------
+
+<img alt="FileScope Main Interface" src="https://github.com/rogers-cyber/FileScope/blob/main/Screenshot%20FileScope.jpg" />
+
+------------------------------------------------------------
 🌟 FEATURES
 ------------------------------------------------------------
 
@@ -133,3 +139,4 @@ Website: https://matetools.gumroad.com
 Distributed as commercial source code.  
 You may use it for personal or commercial projects.  
 Redistribution, resale, or rebranding as a competing product is not allowed.
+
